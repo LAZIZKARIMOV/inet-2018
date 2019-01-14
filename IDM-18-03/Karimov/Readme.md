@@ -1,4 +1,4 @@
-[Мой профиль](https://github.com/lazizkarimov "Мой профиль")
+[Мой профиль](https://github.com/LAZIZKARIMOV "Мой профиль")
 
 [Мой сайт](https://lazizkarimov.github.io/Karimov.github.io/ "Мой сайт")
 
