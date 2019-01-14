@@ -1,6 +1,6 @@
 [Мой профиль](https://github.com/Karimov "Мой профиль")
 
-[Мой сайт](https://karimov.github.io/lab/ "Мой сайт")
+[Мой сайт](https://lazizkarimov.github.io/Karimov.github.io/ "Мой сайт")
 
 [Основной репозиторий](https://github.com/stankin/inet-2018 "Основной репозиторий")
 
